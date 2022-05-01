@@ -13,5 +13,10 @@
 > ## 2) Big-O gösterimini yazınız.
 > ### $\sum_{i=1}^n X_i$
 
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 
 
