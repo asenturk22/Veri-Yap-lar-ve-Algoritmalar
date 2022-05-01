@@ -5,6 +5,6 @@
 
 > ### Başlangıç -----------root = 6
 
-![Merge Sort - Root = 6](v3.png "Merge Sort")
+![Binary Search Tree - Root = 6](v3.png "Binary Search Tree")
 
 
