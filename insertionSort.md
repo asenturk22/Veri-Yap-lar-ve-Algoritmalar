@@ -16,6 +16,6 @@
 
 $n^2$
 
-
+Integrate[x, x] + Sqrt[x] // TraditionalForm
 
 
