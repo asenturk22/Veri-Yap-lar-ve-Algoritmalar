@@ -10,9 +10,8 @@
 > ### [2, 6, 16, 18, 22, 27] - (n - 4)
 
 
-## 2) Big-O gösterimini yazınız.
-
->  [2, 6, 16, 18, 22, 27] - (n - 4)
+> ## 2) Big-O gösterimini yazınız.
+> ### $\sum_{i=1}^n X_i$
 
 
 
