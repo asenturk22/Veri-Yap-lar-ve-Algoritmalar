@@ -12,10 +12,6 @@
 
 ## 2) Big-O gösterimini yazınız.
 
-### $[nx(n+1)] / 2$ = 
-
-$n^2$
-
-Integrate[x, x] + Sqrt[x] // TraditionalForm
+**bold**
 
 
