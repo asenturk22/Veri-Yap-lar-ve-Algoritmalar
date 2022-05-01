@@ -13,10 +13,12 @@
 > ## 2) Big-O gösterimini yazınız.
 > ### $\sum_{i=1}^n X_i$
 
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
 
 
